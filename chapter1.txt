@@ -3,4 +3,5 @@ The title of chapter 1
 This is the first paragraph and some changes
 
 New Action Story
-
+Some action story line 1.
+Some action story line 2.
