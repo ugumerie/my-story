@@ -3,3 +3,7 @@ This is chapter 2 title
 This is the body of chapter 2
 
 This is the second paragraph.
+
+New Action Story
+Some action story line 1.
+Some action story line 2.
